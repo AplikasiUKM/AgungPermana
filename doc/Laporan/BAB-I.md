@@ -37,7 +37,7 @@ Selain itu,pendaftaran secara online dapat mempermudah proses pendaftaran itu se
 <br>
 6.	Sistem tidak menyediakan fasilitas pembayaran
 <br>
-7.	untuk aplikasi <i>android</i> sendiri menggunakan <i>mobilefs</i> bukan <i>android native</i> tapi berbentuk <i>apk</i>
+7.	Untuk aplikasi <i>android</i> sendiri menggunakan <i>mobilefs</i> bukan <i>android native</i> tapi berbentuk <i>apk</i>
 </p>
 <br>
 <strong>1.5	Daftar Kegiatan Pengerjaan Proyek</strong>
